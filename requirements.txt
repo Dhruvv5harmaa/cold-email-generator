@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-groq
+python-dotenv
+pandas
+chromadb
+beautifulsoup4
+requests
+lxml
